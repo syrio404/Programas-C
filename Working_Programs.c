@@ -24,7 +24,7 @@ printf("\n%i + %i = %i", num1, num2, num1+num2);
 
 */
 
-// desneçariamente complicado programa de quantidadade de numeros pares 
+// Desneçariamente complicado programa de quantidadade de numeros pares 
 /*
 #include <stdio.h>
 
@@ -43,7 +43,7 @@ while(num)
  
 num--;
 }
- printf("O numero de vezes que um numero par aparece is %i e tambem %i (To remind me of my hubris)", even, num2 / 2);
+ printf("O numero de vezes que um numero par aparece is %i e tambem (To remind me of my hubris) %i/2 =  %i", even, num2, num2 / 2);
     return 0;
 }
 

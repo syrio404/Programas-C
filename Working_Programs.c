@@ -25,7 +25,7 @@ printf("\n%i + %i = %i", num1, num2, num1+num2);
 */
 
 // Desneçariamente complicado programa de quantidadade de numeros pares 
-/*
+
 #include <stdio.h>
 
 int main (){
@@ -47,4 +47,3 @@ num--;
     return 0;
 }
 
-*/
